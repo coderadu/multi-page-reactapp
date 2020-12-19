@@ -1,4 +1,4 @@
-### `Editing`
+# Editing
 
 Editing is preety easy! In the src folder is every thing you need. The components folder has some pages and the nav bar.
 The styles folder has css files.
